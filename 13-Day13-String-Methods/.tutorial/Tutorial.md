@@ -300,7 +300,7 @@ True
   
 
 ## startswith() :
-The endswith() method checks if the string starts with a given value. If yes then return True, else return False. 
+The startwith() method checks if the string starts with a given value. If yes then return True, else return False. 
 ### Example :
 ```python
 str1 = "Python is a Interpreted Language" 
